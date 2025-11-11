@@ -10,7 +10,7 @@
 * [WhatsApp (Web) - Boas práticas de uso](comece-por-aqui/whatsapp-web-boas-praticas-de-uso.md)
 * [Evite ser banido do WhatsApp](comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
-* [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
+* [Glossário Flowseller](comece-por-aqui/glossario-simplesdesk.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
