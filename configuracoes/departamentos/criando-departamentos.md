@@ -6,9 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja esse tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm3xksxc22cjp3vukwsjyndoz" %}
-
-
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsjmfl06bb200is5itjs0j?utm_source=link" %}
 
 Acesse no **menu lateral esquerdo > Configurações > Departamentos**
 
@@ -16,7 +14,7 @@ Acesse no **menu lateral esquerdo > Configurações > Departamentos**
 
 Acesse no **menu lateral esquerdo > Configurações > Departamentos**
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique em Adicionar
 
@@ -39,4 +37,4 @@ Após é só salvar, caso queira remover o SLA é só clicar em Remover SLA assi
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉&#x20;
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Flowseller. Ou, se preferir, chame através do nosso WhatsApp. 😉
