@@ -6,11 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm3901zyb151w8hspenj63fv7" %}
-
-
-
-
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnswqi50001yf0iawradi0d?utm_source=link" %}
 
 {% embed url="https://www.loom.com/share/422205a889094483ab4b844e392dbf9f?sid=de9ea623-438c-4fd9-a21b-23448f8e0e85" %}
 
@@ -64,4 +60,4 @@ Você pode editar Nome, E-mail, Mensagem de Ausência e se o perfil é Usuário(
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉&#x20;
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Flowseller. Ou, se preferir, chame através do nosso WhatsApp. 😉
