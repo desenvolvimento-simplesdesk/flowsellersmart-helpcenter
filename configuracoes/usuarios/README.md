@@ -1,5 +1,5 @@
 ---
-description: Aprenda a Gerir os seus usuários na plataforma Simplesdesk.
+description: Aprenda a Gerir os seus usuários na plataforma Flowseller.
 ---
 
 # Usuários
@@ -15,4 +15,3 @@ Saiba mais sobre os Grupos:
 {% content-ref url="grupos-do-usuario/" %}
 [grupos-do-usuario](grupos-do-usuario/)
 {% endcontent-ref %}
-
