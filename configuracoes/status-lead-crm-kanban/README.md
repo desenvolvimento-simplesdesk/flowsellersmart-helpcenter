@@ -6,19 +6,13 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este Tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm395wfy918hr8hspqr8c3yf6" fullWidth="true" %}
-Como Criar Um Status Lead
-{% endembed %}
-
-
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsxdhz005u260iyk51wegm?utm_source=link" %}
 
 {% embed url="https://www.loom.com/share/c42e70c6383942c28b63a1d43abf33a7?sid=9d40c504-2d39-4d03-9d3a-0d91573577bb" %}
 
 {% hint style="info" %}
 O Status dos Leads só podem ser alterados via painel de atendimento, não é possível movimentar os atendimentos via painel Kanban, o Gestor visualiza todos os atendimentos e suas etapas/status e os atendentes só visualizam os próprios leads em suas etapas/status
 {% endhint %}
-
-
 
 {% embed url="https://www.loom.com/share/b947bfa11de7492e878f6298cd3a1b35?sid=040710c5-ea75-4431-a6aa-bd33b66172cd" %}
 
@@ -48,4 +42,4 @@ Para visualizar, clique no nome do lead/contato novamente para ocultar o menu la
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉&#x20;
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Flowseller. Ou, se preferir, chame através do nosso WhatsApp.😉
