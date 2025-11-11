@@ -86,15 +86,15 @@ Mas e se eu quiser adicionar ou alterar apenas um campo, como eu faço? Pois que
 
 {% stepper %}
 {% step %}
-### 1. Faça uma requisição anterior
+#### 1. Faça uma requisição anterior
 
 Busque primeiro o contato via API, através do ID ou do número de WhatsAPP
 {% endstep %}
 
 {% step %}
-#### Vefique os campos customizados atuais <a href="#vefique-os-campos-customizados-atuais" id="vefique-os-campos-customizados-atuais"></a>
+**Vefique os campos customizados atuais**
 
-Veja quais campos já existem, adicione todos na requisição **PATCH** e altere apenas o valor que você quer adicionar&#x20;
+Veja quais campos já existem, adicione todos na requisição **PATCH** e altere apenas o valor que você quer adicionar
 {% endstep %}
 {% endstepper %}
 

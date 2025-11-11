@@ -8,15 +8,14 @@ icon: webhook
 ### Configuração de envio API
 
 Aqui será apresentado o uso do PUSH na Simplesdesk Smart 2.0\
-Efetue o login na plataforma Simplesdesk > **Configurações > API/WEBHOOK**\
+Efetue o login na plataforma Simplesdesk > **Configurações > API/WEBHOOK**\\
 
-
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-PUSH: Esta função permite  o envio de mensagens via API\
-Cada envio, abrirá um novo ticket na fila de pendente, se não houver um ticket aberto para o contato na conexão(canal) escolhido  para envio a ação após o envio permitirá  fechar automaticamente  ou manter o ticket aberto.\
-A URL e o token podem ser gerados  na plataforma. Para utilizar a URL (endpoint), basta clicar em ADICIONAR para criar a configuração para a API e preencher os campos de dados API (PUSH)  como mostramos nas imagens abaixo
+PUSH: Esta função permite o envio de mensagens via API\
+Cada envio, abrirá um novo ticket na fila de pendente, se não houver um ticket aberto para o contato na conexão(canal) escolhido para envio a ação após o envio permitirá fechar automaticamente ou manter o ticket aberto.\
+A URL e o token podem ser gerados na plataforma. Para utilizar a URL (endpoint), basta clicar em ADICIONAR para criar a configuração para a API e preencher os campos de dados API (PUSH) como mostramos nas imagens abaixo
 {% endhint %}
 
 ### Campos para preenchimento
@@ -25,14 +24,14 @@ A URL e o token podem ser gerados  na plataforma. Para utilizar a URL (endpoint)
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-**Nome da API:** descrição do sistema externo&#x20;
+**Nome da API:** descrição do sistema externo
 
-**Enviar por:** nome do canal do WhatsApp por onde as mensagens vão ser enviadas para o WhatsApp dos clientes.&#x20;
+**Enviar por:** nome do canal do WhatsApp por onde as mensagens vão ser enviadas para o WhatsApp dos clientes.
 
-**Ação no atendimento após o envio:**&#x20;
+**Ação no atendimento após o envio:**
 
-* **Fechar:** manter na aba de fechados após o envio&#x20;
-* **Manter aberto:** ficar na aba de pendentes sem departamento vinculado **Redirecionar para fila:** ficar na aba de pendentes com um departamento vinculado&#x20;
+* **Fechar:** manter na aba de fechados após o envio
+* **Manter aberto:** ficar na aba de pendentes sem departamento vinculado **Redirecionar para fila:** ficar na aba de pendentes com um departamento vinculado
 * **Redirecionar para usuário:** enviar para a aba de ativos de um atendente
 
 {% hint style="info" %}
@@ -41,9 +40,9 @@ A URL e o token podem ser gerados  na plataforma. Para utilizar a URL (endpoint)
 
 ### Copie o token clicando no ícone de link
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-Metódo POST:&#x20;
+Metódo POST:
 
 ```html
 // Metodo post
@@ -52,9 +51,9 @@ https://URL_COPIADA_COM_TOKEN
 
 ### Headers
 
-| Key           | Value            |
-| ------------- | ---------------- |
-| Content-Type  | application/json |
+| Key          | Value            |
+| ------------ | ---------------- |
+| Content-Type | application/json |
 
 ### Exemplo de requisição
 
@@ -169,13 +168,13 @@ O **Id do Motivo de Fechamento (closingReasonId)** é encontrado em Configuraç�
 
 ## Configurações do Webhook
 
-Aqui será apresentado os demais usos do  WEBHOOK na Simplesdesk Smart 2.0, como eventos, payloads e logs.\
+Aqui será apresentado os demais usos do WEBHOOK na Simplesdesk Smart 2.0, como eventos, payloads e logs.\
 Efetue o login na plataforma Simplesdesk > **Configurações > API/WEBHOOK**
 
 <figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Esta função permite  o envio de dados do contato/atendimento a partir de um determinado evento (gatilho) que ocorre  na plataforma
+Esta função permite o envio de dados do contato/atendimento a partir de um determinado evento (gatilho) que ocorre na plataforma
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
@@ -188,21 +187,21 @@ Dúvidas sobre o payload? Clique no ícone de "?" para obter um exemplo de Paylo
 
 ### LOGS
 
-É possível fazer uma pesquisa pelos logs de requisição  para API (PUSH) ou envio de dados para o  Webhook
+É possível fazer uma pesquisa pelos logs de requisição para API (PUSH) ou envio de dados para o Webhook
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhe do evento Webhook URL:
 
-| Campo  | Descrição                          |
-| ------ | ---------------------------------- |
-| #      | Id de identificação da requisição  |
-| Nome   | Nome da Api                        |
-| Evento | Nome do evento na plataforma       |
-| Tipo   | Webhook ou API (Push)              |
-| Status | Falha ou sucesso (200)             |
-| Data   | Data e hora da requisição          |
-| Ação   | Detalhe do evento                  |
+| Campo  | Descrição                         |
+| ------ | --------------------------------- |
+| #      | Id de identificação da requisição |
+| Nome   | Nome da Api                       |
+| Evento | Nome do evento na plataforma      |
+| Tipo   | Webhook ou API (Push)             |
+| Status | Falha ou sucesso (200)            |
+| Data   | Data e hora da requisição         |
+| Ação   | Detalhe do evento                 |
 
 ### Envio: Payload / Header
 
@@ -747,4 +746,4 @@ Dúvidas sobre o payload? Clique no ícone de "?" para obter um exemplo de Paylo
 
 ```
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉&#x20;
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉
