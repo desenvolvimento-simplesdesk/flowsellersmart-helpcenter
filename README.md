@@ -6,8 +6,6 @@ description: Pronto para Simplificar sua Gestão?
 
 _**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com o SimplesDesk!**_
 
-
-
 1 - Acesse a sua conta e crie os seus Departamentos:
 
 {% content-ref url="configuracoes/departamentos/criando-departamentos.md" %}
@@ -70,7 +68,6 @@ _**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com 
 
 11 - Conecte o seu número de WhatsApp:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/OPYkVI4NKNfONpQn6vmn" %}
+[Broken link](/broken/pages/OPYkVI4NKNfONpQn6vmn)
 {% endcontent-ref %}
-

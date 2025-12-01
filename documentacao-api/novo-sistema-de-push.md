@@ -9,7 +9,7 @@ icon: webhook
 
 ## Procure por "Push" no menu suspenso à esquerda
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="227"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui.png" alt="" width="227"><figcaption></figcaption></figure>
 
 <figure><img src="https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252F6w0SRYt1p4UFhlzuXauD%252Fimage.png%3Falt%3Dmedia%26token%3Dd735c853-cc5e-4d21-8c28-41f1463863a0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=807fff79&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ Cole o JSON copiado no modelo de dados:
 
 Personalize a mensagem com as variáveis que foram mapeadas no JSON:
 
-<img src="https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252Fp9ZL86ODj9z9aZlrJBOi%252Fimage.png%3Falt%3Dmedia%26token%3Dec31e0c0-f873-46f5-87cb-513ad7ee9341&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bba082f2&#x26;sv=2" alt="" data-size="original">![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252FA0NLieTqgepLXAQwE96p%252Fimage.png%3Falt%3Dmedia%26token%3Df10776d4-ff1b-487a-913e-df98fc54ecb9\&width=768\&dpr=4\&quality=100\&sign=a35db14f\&sv=2)
+![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252Fp9ZL86ODj9z9aZlrJBOi%252Fimage.png%3Falt%3Dmedia%26token%3Dec31e0c0-f873-46f5-87cb-513ad7ee9341\&width=768\&dpr=4\&quality=100\&sign=bba082f2\&sv=2) ![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252FA0NLieTqgepLXAQwE96p%252Fimage.png%3Falt%3Dmedia%26token%3Df10776d4-ff1b-487a-913e-df98fc54ecb9\&width=768\&dpr=4\&quality=100\&sign=a35db14f\&sv=2)
 
 Adicione a variável do JSON referente ao número de whatsapp do cliente. Se a variável vir sem o DDI (55), adicione antes e coloque a variável depois:
 
