@@ -13,20 +13,20 @@ icon: address-card
 
 Url da documentação (Solicite para a equipe de suporte o link direto do seu servidor)
 
-`https://enterprise-90api.simplesdesk.com.br/v1/contacts/docs#`
+[`https://enterprise-276api.flowseller.com.br/v1/contacts/docs`](https://enterprise-276api.flowseller.com.br/v1/contacts/docs)
 
 {% hint style="info" %}
-Lembrando que o **número 40** tem que ser alterado para o número do seu servidor e o **seu\_dominio** deve ser alterado pelo nome que consta na url do seu sistema. Consulte a equipe de suporte
+Lembrando que o **número 276** tem que ser alterado para o número do seu servidor e o **seu\_dominio** deve ser alterado pelo nome que consta na url do seu sistema. Consulte a equipe de suporte
 {% endhint %}
 
 Os endpoints serão esses:
 
-`https://enterprise-90api.simplesdesk.com.br/v1/contacts/`
+`https://enterprise-276api.flowseller.com.br/v1/contacts/docs`
 
-`https://enterprise-90api.simplesdesk.com.br/v1/contacts/id_contato`
+`https://enterprise-276api.flowseller.com.br/v1/contacts/id_contato`
 
 {% hint style="info" %}
-Caso seja necessário, temos a [variável interna](https://ajuda.simplesdesk.com.br/documentacao-api/variaveis) \{{id\}} que pega o valor do id do contato.
+Caso seja necessário, temos a variável interna \{{id\}} que pega o valor do id do contato.
 {% endhint %}
 
 Esses endpoints vão precisar de um cabeçalho:
@@ -135,13 +135,13 @@ E para zerar as etiquetas é só deixar o array vazio:
 Forma antiga que está mantida **(BUSCA POR ID)**
 
 ```
-https://enterprise-90api.simplesdesk.com.br/v1/contacts/id_contato
+https://enterprise-276api.flowseller.com.br/v1/contacts/id_contato
 ```
 
 Só que quando precisamos buscar esse contato externamente, é complicado, pois é necessário buscar ele através do id do cliente no nosso sistema. Para resolver essa situação foi criado um recurso novo no endpoint para buscar clientes por número de WhatsApp.
 
 ```
-https://enterprise-90api.simplesdesk.com.br/v1/contacts/number/numero_whatsapp
+https://enterprise-276api.flowseller.com.br/v1/contacts/id_contato
 ```
 
 {% hint style="info" %}
