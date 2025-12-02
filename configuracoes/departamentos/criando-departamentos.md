@@ -10,10 +10,6 @@ Veja esse tutorial interativo:
 
 Acesse no **menu lateral esquerdo > Configurações > Departamentos**
 
-{% embed url="https://www.loom.com/share/fc053baae4b74d16b1beebe58f8d4756?sid=dc45e700-f6f6-4314-b3d6-e9e56afd56ee" %}
-
-Acesse no **menu lateral esquerdo > Configurações > Departamentos**
-
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique em Adicionar
