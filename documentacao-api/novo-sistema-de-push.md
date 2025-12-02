@@ -9,7 +9,7 @@ icon: webhook
 
 ## Procure por "Push" no menu suspenso à esquerda
 
-<figure><img src="../.gitbook/assets/aqui.png" alt="" width="227"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui (1).png" alt="" width="227"><figcaption></figcaption></figure>
 
 <figure><img src="https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252F6w0SRYt1p4UFhlzuXauD%252Fimage.png%3Falt%3Dmedia%26token%3Dd735c853-cc5e-4d21-8c28-41f1463863a0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=807fff79&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 

@@ -20,7 +20,7 @@ A URL e o token podem ser gerados na plataforma. Para utilizar a URL (endpoint),
 
 ### Campos para preenchimento
 
-<figure><img src="../.gitbook/assets/aqui (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 

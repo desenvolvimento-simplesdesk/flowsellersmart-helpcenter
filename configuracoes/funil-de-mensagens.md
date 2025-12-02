@@ -8,8 +8,6 @@ Veja este Tutorial interativo:
 
 {% embed url="https://demo.simplesdesk.com.br/demo/cmhnszxjv06lq200i9lln2bw0?utm_source=link" %}
 
-{% embed url="https://www.loom.com/share/d8e092f443cd45589dcb511373b990a4?sid=326ea11e-7cc8-44e9-b411-bc6aefe4a2a4" %}
-
 {% hint style="danger" %}
 **USE COM CUIDADO - RISCO DE BANIMENTO DO WHATSAPP ALTISSÍMO**
 {% endhint %}
@@ -17,8 +15,6 @@ Veja este Tutorial interativo:
 {% hint style="info" %}
 Veja as regras para poder utilizar o WhatsApp juntamente com seu serviço de Funil e evite banimentos pela ferramenta.
 {% endhint %}
-
-{% embed url="https://www.loom.com/share/d0385a1d31924c52a45db2c1745ddad6?sid=1c55cd3b-1d52-4619-b230-f6b2ce199461" %}
 
 Atualmente, o WhatsApp é uma ferramenta indispensável para manter o contato com clientes atuais e potenciais, mas saiba que seu número de WhatsApp pode ser banido, caso não siga algumas diretrizes e regras do WhatsApp.
 
@@ -51,7 +47,7 @@ Para melhor atendê-lo, a Flowseller conta também com o plano WhatsApp Oficial 
 
 Acesse no **menu lateral esquerdo > Funil**
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique em **Novo**\
 **Digite o nome do funil, selecione o canal e a ação**\
@@ -61,7 +57,7 @@ Em seguida clique em **Novo**\
 **Atenção aos minutos de disparo entre cada etapa/mensagem**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui.png" alt=""><figcaption></figcaption></figure>
 
 É possível em cada etapa do funil a adição automática de **Etiquetas** e alteração do **Status do Lead** em seu Kanban
 
