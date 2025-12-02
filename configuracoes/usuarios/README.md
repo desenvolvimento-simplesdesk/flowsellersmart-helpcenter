@@ -12,6 +12,6 @@ Aprenda à criar usuários dentro da plataforma:
 
 Saiba mais sobre os Grupos:
 
-{% content-ref url="grupos-do-usuario/" %}
-[grupos-do-usuario](grupos-do-usuario/)
+{% content-ref url="grupos-do-usuario.md" %}
+[grupos-do-usuario.md](grupos-do-usuario.md)
 {% endcontent-ref %}
