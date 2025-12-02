@@ -4,7 +4,7 @@ description: Pronto para Simplificar sua Gestão?
 
 # Configure Você Mesmo
 
-_**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com o SimplesDesk!**_
+_**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com o Flowseller!**_
 
 1 - Acesse a sua conta e crie os seus Departamentos:
 
