@@ -10,11 +10,6 @@ description: >-
 Treinamento para perfil de Atendente
 {% endembed %}
 
-{% embed url="https://www.loom.com/share/b63fd6bcebbd496db04fcb67198bb084?sid=7fb58bd6-2cb2-4782-91e4-0930e10434e4" %}
+{% embed url="https://www.loom.com/share/a2794be3872f48608c2bc80e5f5f1cd8" %}
 Treinamento para perfil de Administrador
 {% endembed %}
-
-
-
-
-
