@@ -1,5 +1,5 @@
 ---
-description: Aprenda à criar um prompt para sua IA da Simplesdesk
+description: Aprenda à criar um prompt para sua IA da Flowseller
 icon: sparkles
 ---
 
