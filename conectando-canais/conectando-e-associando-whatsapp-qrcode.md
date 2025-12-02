@@ -24,15 +24,15 @@ Agora aponte a câmera para o **QR CODE na tela da** Flowseller
 
 Dê um nome para o aparelho conectado **Dica:** Flowseller **Smart 2.0**
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui (7).png" alt="" width="239"><figcaption></figcaption></figure>
 
 Pronto, após conexão você visualizará as seguintes telas no Whatsapp Business
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui (8).png" alt="" width="239"><figcaption></figcaption></figure>
 
-Na Flowseller
+Na Flowseller:
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aqui (9).png" alt="" width="324"><figcaption></figcaption></figure>
 
 Caso deseje importar os contatos do seu celular é só clicar no botão **Importar Contatos** e a plataforma Flowseller vai importar a agenda do seu celular/número automaticamente
 
