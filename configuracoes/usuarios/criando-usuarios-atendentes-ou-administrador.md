@@ -8,15 +8,9 @@ Veja este tutorial interativo:
 
 {% embed url="https://demo.simplesdesk.com.br/demo/cmhnswqi50001yf0iawradi0d?utm_source=link" %}
 
-{% embed url="https://www.loom.com/share/422205a889094483ab4b844e392dbf9f?sid=de9ea623-438c-4fd9-a21b-23448f8e0e85" %}
-
 Acesse no **Menu lateral esquerdo > Configurações > Usuários**
 
-{% embed url="https://www.loom.com/share/392c804004d848d58a67688a6cc423c3?sid=b73997a8-88c4-4cc7-bd1e-40193b824e4b" %}
-
-Acesse no **Menu lateral esquerdo > Configurações > Usuários**
-
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique no botão **Adicionar**
 
@@ -50,7 +44,7 @@ Para gerenciar os canais/conexões que o usuário tem permissão e estará vincu
 
 Após é só selecionar o canal, se você selecionar apenas 1 número, o usuário vai ter permissão e só vai visualizar ações efetuadas nem número conectado ao perfil dele, é uma opção ótima para multi conexões e multi usuários
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ### Editar ou excluir usuário
 
