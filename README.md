@@ -44,8 +44,8 @@ _**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com 
 
 7 - Crie os seusCampos Customizados:
 
-{% content-ref url="configuracoes/campos-customizados/" %}
-[campos-customizados](configuracoes/campos-customizados/)
+{% content-ref url="configuracoes/campos-customizados.md" %}
+[campos-customizados.md](configuracoes/campos-customizados.md)
 {% endcontent-ref %}
 
 8 - Crie o seu primeiro ChatBot:
