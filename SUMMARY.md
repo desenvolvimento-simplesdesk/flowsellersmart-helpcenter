@@ -61,6 +61,7 @@
 * [Mensagens Rápidas (Scripts de Atendimento)](configuracoes/mensagens-rapidas-scripts-de-atendimento.md)
 * [Origens do Lead](configuracoes/origens-do-lead.md)
 * [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
+* [Merge](configuracoes/merge.md)
 
 ## ➕ CONECTANDO CANAIS
 
