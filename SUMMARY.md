@@ -11,6 +11,7 @@
 * [Evite ser banido do WhatsApp](comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
 * [Glossário Flowseller](comece-por-aqui/glossario-simplesdesk.md)
+* [Efetuando o Login no App](comece-por-aqui/efetuando-o-login-no-app.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
