@@ -4,9 +4,7 @@ description: Pronto para Simplificar sua Gestão?
 
 # Configure Você Mesmo
 
-_**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com o SimplesDesk!**_
-
-
+_**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com o Flowseller!**_
 
 1 - Acesse a sua conta e crie os seus Departamentos:
 
@@ -46,8 +44,8 @@ _**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com 
 
 7 - Crie os seusCampos Customizados:
 
-{% content-ref url="configuracoes/campos-customizados/" %}
-[campos-customizados](configuracoes/campos-customizados/)
+{% content-ref url="configuracoes/campos-customizados.md" %}
+[campos-customizados.md](configuracoes/campos-customizados.md)
 {% endcontent-ref %}
 
 8 - Crie o seu primeiro ChatBot:
@@ -70,7 +68,6 @@ _**Dê os PRIMEIROS PASSOS e veja como é fácil organizar suas operações com 
 
 11 - Conecte o seu número de WhatsApp:
 
-{% content-ref url="/broken/pages/cqD39X53GAGpKNnFlMF5" %}
-[Broken link](/broken/pages/cqD39X53GAGpKNnFlMF5)
+{% content-ref url="/broken/pages/OPYkVI4NKNfONpQn6vmn" %}
+[Broken link](/broken/pages/OPYkVI4NKNfONpQn6vmn)
 {% endcontent-ref %}
-
