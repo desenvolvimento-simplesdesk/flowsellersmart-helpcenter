@@ -60,6 +60,7 @@
 * [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
 * [Merge](configuracoes/merge.md)
 * [Ativando canal de Instagram via Notificame](configuracoes/ativando-canal-de-instagram-via-notificame.md)
+* [Excluindo canal via Notificame](configuracoes/excluindo-canal-via-notificame.md)
 
 ## ➕ CONECTANDO CANAIS
 
