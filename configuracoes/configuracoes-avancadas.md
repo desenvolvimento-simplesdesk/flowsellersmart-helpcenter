@@ -1,9 +1,5 @@
----
-description: 'Acesse as configurações avançadas da plataforma:'
----
-
 # Configurações avançadas
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmjbx9rs200093v0jkipfo2zp?utm_source=link" %}
+Acesse as configurações avançadas da plataforma:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmjbx9rs200093v0jkipfo2zp?utm_source=link" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cmjbv2kcv3qwzf6zpz28c45vf?utm_source=link" %}

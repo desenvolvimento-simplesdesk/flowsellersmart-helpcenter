@@ -6,4 +6,4 @@ description: Aprenda à configurar o seu próprio ChatBot
 
 COMO CRIAR UM BOT FUNCIONAL:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnt0hc300hy260icgullwxz?utm_source=link" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cm4muaekv0u7qwf11fczlyfvw" %}

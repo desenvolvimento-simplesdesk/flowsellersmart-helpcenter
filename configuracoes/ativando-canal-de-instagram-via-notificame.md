@@ -2,4 +2,4 @@
 
 Confira este tutorial para a ativação do Instagram via Notificame:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmjee5zv900bi2z0iwjaa13ng?utm_source=link" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cmjechq6b05yd3zz2qpkytrt9?utm_source=link" %}
