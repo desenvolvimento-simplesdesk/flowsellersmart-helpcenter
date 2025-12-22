@@ -12,9 +12,6 @@
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
 * [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
 * [Efetuando o Login no App](comece-por-aqui/efetuando-o-login-no-app.md)
-* [Ativando canal de Instagram via Notificame](comece-por-aqui/ativando-canal-de-instagram-via-notificame.md)
-* [Excluindo canal de Instagram via Notificame](comece-por-aqui/excluindo-canal-de-instagram-via-notificame.md)
-* [Ativando a Pesquisa de Satisfação](comece-por-aqui/ativando-a-pesquisa-de-satisfacao.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
@@ -66,6 +63,9 @@
 * [Origens do Lead](configuracoes/origens-do-lead.md)
 * [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
 * [Merge](configuracoes/merge.md)
+* [Ativando canal de Instagram via Notificame](configuracoes/ativando-canal-de-instagram-via-notificame.md)
+* [Excluindo canal via Notificame](configuracoes/excluindo-canal-via-notificame.md)
+* [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
 
 ## ➕ CONECTANDO CANAIS
 
