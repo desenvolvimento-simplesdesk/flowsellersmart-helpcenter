@@ -13,6 +13,7 @@
 * [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
 * [Efetuando o Login no App](comece-por-aqui/efetuando-o-login-no-app.md)
 * [Ativando canal de Instagram via Notificame](comece-por-aqui/ativando-canal-de-instagram-via-notificame.md)
+* [Excluindo canal de Instagram via Notificame](comece-por-aqui/excluindo-canal-de-instagram-via-notificame.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
