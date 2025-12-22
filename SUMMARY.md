@@ -12,6 +12,7 @@
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
 * [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
 * [Efetuando o Login no App](comece-por-aqui/efetuando-o-login-no-app.md)
+* [Ativando canal de Instagram via Notificame](comece-por-aqui/ativando-canal-de-instagram-via-notificame.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
