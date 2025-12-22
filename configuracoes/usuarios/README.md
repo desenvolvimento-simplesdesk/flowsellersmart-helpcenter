@@ -1,5 +1,5 @@
 ---
-description: Aprenda a Gerir os seus usuários na plataforma Flowseller.
+description: Aprenda a Gerir os seus usuários na plataforma Simplesdesk.
 ---
 
 # Usuários
@@ -12,6 +12,7 @@ Aprenda à criar usuários dentro da plataforma:
 
 Saiba mais sobre os Grupos:
 
-{% content-ref url="grupos-do-usuario.md" %}
-[grupos-do-usuario.md](grupos-do-usuario.md)
+{% content-ref url="grupos-do-usuario/" %}
+[grupos-do-usuario](grupos-do-usuario/)
 {% endcontent-ref %}
+

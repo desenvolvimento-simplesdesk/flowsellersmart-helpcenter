@@ -12,8 +12,10 @@ description: >-
 [evite-ser-banido-do-whatsapp.md](../comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 {% endcontent-ref %}
 
+
+
 Aprenda a utilizar a ferramenta de Campanhas dentro da plataforma! Cheque o tutorial interativo abaixo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsjd8c0683200i5qc0350x?utm_source=link" %}
-Disparos (campanhas)
+{% embed url="https://demo.simplesdesk.com.br/demo/cm38yrs6q136n8hspfhvlznqr" %}
+Disparos (Campanhas)
 {% endembed %}

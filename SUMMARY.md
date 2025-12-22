@@ -10,7 +10,7 @@
 * [WhatsApp (Web) - Boas práticas de uso](comece-por-aqui/whatsapp-web-boas-praticas-de-uso.md)
 * [Evite ser banido do WhatsApp](comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
-* [Glossário Flowseller](comece-por-aqui/glossario-simplesdesk.md)
+* [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
 
 ## ⚙️ CONFIGURAÇÕES
 
@@ -30,7 +30,8 @@
 * [Etiquetas (Tags)](configuracoes/etiquetas-tags.md)
 * [Usuários](configuracoes/usuarios/README.md)
   * [Criando Usuários Atendentes ou Administrador](configuracoes/usuarios/criando-usuarios-atendentes-ou-administrador.md)
-  * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario.md)
+  * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario/README.md)
+    * [Cadastrando grupo para os atendentes](configuracoes/usuarios/grupos-do-usuario/cadastrando-grupo-para-os-atendentes.md)
 * [Ferramentas de Atendimento](configuracoes/ferramentas-de-atendimento/README.md)
   * [Como iniciar o atendimento](configuracoes/ferramentas-de-atendimento/como-iniciar-o-atendimento.md)
   * [Como transferir atendimentos](configuracoes/ferramentas-de-atendimento/como-transferir-atendimentos.md)
@@ -38,12 +39,14 @@
 * [Funil de Mensagens](configuracoes/funil-de-mensagens.md)
 * [Status Lead (CRM Kanban)](configuracoes/status-lead-crm-kanban/README.md)
   * [Como adicionar Cliente à Status Lead](configuracoes/status-lead-crm-kanban/como-adicionar-cliente-a-status-lead.md)
-* [Campos Customizados](configuracoes/campos-customizados.md)
+* [Campos Customizados](configuracoes/campos-customizados/README.md)
+  * [Como utilizar os campos personalizados](configuracoes/campos-customizados/como-utilizar-os-campos-personalizados.md)
 * [Lista de Contatos](configuracoes/lista-de-contatos/README.md)
   * [Como Importar Contatos](configuracoes/lista-de-contatos/como-importar-contatos.md)
   * [Editar Contatos](configuracoes/lista-de-contatos/editar-contatos.md)
   * [Cadastrando um contato](configuracoes/lista-de-contatos/cadastrando-um-contato.md)
-* [Plugins](configuracoes/plugins.md)
+* [Plugins](configuracoes/plugins/README.md)
+  * [Criando e configurando Plugins](configuracoes/plugins/criando-e-configurando-plugins.md)
 * [Pipeline](configuracoes/pipeline/README.md)
   * [Criando Uma Oportunidade](configuracoes/pipeline/criando-uma-oportunidade.md)
   * [Criando etapas do Pipeline](configuracoes/pipeline/criando-etapas-do-pipeline.md)
@@ -57,6 +60,7 @@
 * [Templates](configuracoes/templates.md)
 * [Mensagens Rápidas (Scripts de Atendimento)](configuracoes/mensagens-rapidas-scripts-de-atendimento.md)
 * [Origens do Lead](configuracoes/origens-do-lead.md)
+* [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
 
 ## ➕ CONECTANDO CANAIS
 

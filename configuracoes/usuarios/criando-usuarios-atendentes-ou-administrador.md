@@ -6,11 +6,21 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnswqi50001yf0iawradi0d?utm_source=link" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cm3901zyb151w8hspenj63fv7" %}
+
+
+
+
+
+{% embed url="https://www.loom.com/share/422205a889094483ab4b844e392dbf9f?sid=de9ea623-438c-4fd9-a21b-23448f8e0e85" %}
 
 Acesse no **Menu lateral esquerdo > Configurações > Usuários**
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.loom.com/share/392c804004d848d58a67688a6cc423c3?sid=b73997a8-88c4-4cc7-bd1e-40193b824e4b" %}
+
+Acesse no **Menu lateral esquerdo > Configurações > Usuários**
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique no botão **Adicionar**
 
@@ -44,7 +54,7 @@ Para gerenciar os canais/conexões que o usuário tem permissão e estará vincu
 
 Após é só selecionar o canal, se você selecionar apenas 1 número, o usuário vai ter permissão e só vai visualizar ações efetuadas nem número conectado ao perfil dele, é uma opção ótima para multi conexões e multi usuários
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ### Editar ou excluir usuário
 
@@ -54,4 +64,4 @@ Você pode editar Nome, E-mail, Mensagem de Ausência e se o perfil é Usuário(
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Flowseller. Ou, se preferir, chame através do nosso WhatsApp. 😉
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉&#x20;

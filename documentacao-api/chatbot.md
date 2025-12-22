@@ -153,13 +153,14 @@ No caso acima, contratos vai ser um Array.
 }
 ```
 
-Eu poderia mapear o item **"msg"** e no mapeamento ficaria assim:
+Eu poderia mapear o item **"msg"**  e no mapeamento ficaria assim:
 
-![](<../.gitbook/assets/image (75).png>)\\
+![](<../.gitbook/assets/image (75).png>)\
+
 
 E na próxima etapa do chatbot imprimir essa mensagem mapeada acima assim:
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 Mas no caso do Array **"contratos",** queremos imprimir todos os **contratoId's** desse cliente.
 
