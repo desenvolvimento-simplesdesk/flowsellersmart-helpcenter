@@ -71,6 +71,7 @@
   * [Criando Canal de Whatsapp (API Oficial)](conectando-canais/whatsapp-api-oficial/criando-canal-de-whatsapp-api-oficial.md)
   * [Como acessar a Gupshup](conectando-canais/whatsapp-api-oficial/como-acessar-a-gupshup.md)
   * [Como Ativar Número na Gupshup](conectando-canais/whatsapp-api-oficial/como-ativar-numero-na-gupshup.md)
+* [Inativando um canal](conectando-canais/inativando-um-canal.md)
 
 ## 🔚 DOCUMENTAÇÃO API
 
