@@ -155,8 +155,7 @@ No caso acima, contratos vai ser um Array.
 
 Eu poderia mapear o item **"msg"**  e no mapeamento ficaria assim:
 
-![](<../.gitbook/assets/image (75).png>)\
-
+![](<../.gitbook/assets/image (75).png>)<br>
 
 E na próxima etapa do chatbot imprimir essa mensagem mapeada acima assim:
 

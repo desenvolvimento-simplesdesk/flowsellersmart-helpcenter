@@ -2,7 +2,8 @@
 
 ## 🏁 COMECE POR AQUI
 
-* [Configure Você Mesmo](README.md)
+* [Efetuando o Login](README.md)
+* [Configure Você Mesmo](<README (1).md>)
 * [TREINAMENTOS](comece-por-aqui/treinamentos.md)
 * [IA (Inteligência Artificial)](comece-por-aqui/ia-inteligencia-artificial.md)
 * [Criando Templates](comece-por-aqui/criando-templates.md)

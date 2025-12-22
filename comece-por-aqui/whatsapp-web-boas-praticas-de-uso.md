@@ -17,14 +17,10 @@ Embora o Meta tenha desenvolvido o multi-devices para não ser dependente do apa
 
 ### Boas práticas <a href="#boas-praticas" id="boas-praticas"></a>
 
-* É recomendado que o celular esteja com 100% de bateria e conectado na tomada 24 horas por dia ([Isso pode viciar a minha bateria?](https://tecnoblog.net/189854/bateria-vicia-efeito-memoria/)). Isso evita que o aparelho crie processos automáticos de economia de bateria e coloque o WhatsApp em segundo plano.\
-
-* Utilizar um modelo de aparelho celular recomendado. (Verifique os modelos recomendados abaixo). Aparelhos muito antigos não acompanham as atualizações do aplicativo de WhatsApp.\
-
-* O sistema operacional do celular e o aplicativo do WhatsApp deverão estar atualizados para a última versão. Descubra a sua versão Android clicando [aqui](https://support.google.com/android/answer/7680439?hl=pt-BR) ou iOS clicando [aqui](https://support.apple.com/pt-br/HT201685).\
-
-* Recomendado utilizar o celular exclusivamente para a integração com a Simplesdesk. Caso utilize também para navegar por outros aplicativos, a prioridade no processamento não será do WhatsApp.\
-
+* É recomendado que o celular esteja com 100% de bateria e conectado na tomada 24 horas por dia ([Isso pode viciar a minha bateria?](https://tecnoblog.net/189854/bateria-vicia-efeito-memoria/)). Isso evita que o aparelho crie processos automáticos de economia de bateria e coloque o WhatsApp em segundo plano.<br>
+* Utilizar um modelo de aparelho celular recomendado. (Verifique os modelos recomendados abaixo). Aparelhos muito antigos não acompanham as atualizações do aplicativo de WhatsApp.<br>
+* O sistema operacional do celular e o aplicativo do WhatsApp deverão estar atualizados para a última versão. Descubra a sua versão Android clicando [aqui](https://support.google.com/android/answer/7680439?hl=pt-BR) ou iOS clicando [aqui](https://support.apple.com/pt-br/HT201685).<br>
+* Recomendado utilizar o celular exclusivamente para a integração com a Simplesdesk. Caso utilize também para navegar por outros aplicativos, a prioridade no processamento não será do WhatsApp.<br>
 * Responder as conversas sempre pela Simplesdesk, as mensagens respondidas pelo aparelho podem não sincronizar com a Simplesdesk.
 
 ### Velocidade de Conexão <a href="#velocidade-de-conexao" id="velocidade-de-conexao"></a>

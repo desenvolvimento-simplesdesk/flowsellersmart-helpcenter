@@ -180,4 +180,4 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 **Zapier:** É uma plataforma de automação que permite integrar e conectar diferentes aplicativos e serviços, incluindo a Simplesdesk, facilitando a transferência de dados e a execução de tarefas entre eles.
 
-\
+<br>

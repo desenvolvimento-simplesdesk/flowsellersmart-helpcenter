@@ -8,8 +8,7 @@ icon: webhook
 ### Configuração de envio API
 
 Aqui será apresentado o uso do PUSH na Simplesdesk Smart 2.0\
-Efetue o login na plataforma Simplesdesk > **Configurações > API/WEBHOOK**\
-
+Efetue o login na plataforma Simplesdesk > **Configurações > API/WEBHOOK**<br>
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
