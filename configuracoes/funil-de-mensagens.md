@@ -6,9 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este Tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm4kabzhv105927exkgbds966" %}
-
-
+{% embed url="https://app.supademo.com/demo/cm4kabzhv105927exkgbds966?utm_source=link" %}
 
 {% embed url="https://www.loom.com/share/d8e092f443cd45589dcb511373b990a4?sid=326ea11e-7cc8-44e9-b411-bc6aefe4a2a4" %}
 
