@@ -6,9 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja esse tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm3xksxc22cjp3vukwsjyndoz" %}
-
-
+{% embed url="https://app.supademo.com/demo/cm3xksxc22cjp3vukwsjyndoz?utm_source=link" %}
 
 Acesse no **menu lateral esquerdo > Configurações > Departamentos**
 
