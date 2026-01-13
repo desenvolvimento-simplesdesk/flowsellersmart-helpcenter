@@ -6,17 +6,13 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja estes tutoriais interativos:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm42tv3nq12wqjfcx1dbcgckg" %}
+{% embed url="https://app.supademo.com/demo/cm42t07sa12qgjfcxa5lejavo?utm_source=link" %}
 Criando Mensagem Rápida do Usuário
 {% endembed %}
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm42tv3nq12wqjfcx1dbcgckg" %}
+{% embed url="https://app.supademo.com/demo/cm42tv3nq12wqjfcx1dbcgckg" %}
 Criando Mensagem Rápida do Administrador
 {% endembed %}
-
-
-
-
 
 {% embed url="https://www.loom.com/share/bd72ad80de304184a7924f589fdcf576?sid=7ee6c2b2-eba2-4ecc-a661-32c3b5139614" %}
 
