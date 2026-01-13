@@ -1,3 +1,3 @@
 # Criando Canal de Whatsapp (API Oficial)
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm3xkj12c2cil3vuk6h4hi2ub" %}
+{% embed url="https://app.supademo.com/demo/cm3ynxpkw0en5vyqzexh6end3?utm_source=link" %}
