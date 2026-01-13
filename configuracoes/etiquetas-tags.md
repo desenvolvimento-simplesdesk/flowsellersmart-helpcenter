@@ -6,9 +6,7 @@ description: Aprenda a criar e editar etiquetas na plataforma smart 2.0 simplesd
 
 Veja este tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm395kjj3189l8hspp39gn7u3" %}
-
-
+{% embed url="https://app.supademo.com/demo/cm395kjj3189l8hspp39gn7u3" %}
 
 {% embed url="https://www.loom.com/share/da1b4c42d8aa4610aa8e573b2d670db3?sid=c17dd36f-1beb-4148-94f1-210dbe2a39f8" %}
 
