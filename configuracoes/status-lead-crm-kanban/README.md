@@ -6,11 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este Tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cm395wfy918hr8hspqr8c3yf6" fullWidth="true" %}
-Como Criar Um Status Lead
-{% endembed %}
-
-
+{% embed url="https://app.supademo.com/demo/cm395wfy918hr8hspqr8c3yf6" %}
 
 {% embed url="https://www.loom.com/share/c42e70c6383942c28b63a1d43abf33a7?sid=9d40c504-2d39-4d03-9d3a-0d91573577bb" %}
 
