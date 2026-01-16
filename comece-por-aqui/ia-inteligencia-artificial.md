@@ -1,10 +1,10 @@
 ---
-description: Aprenda à criar um prompt para sua IA da Simplesdesk
+description: Aprenda à criar um prompt para sua IA da Flowseller
 icon: sparkles
 ---
 
 # IA (Inteligência Artificial)
 
-Veja esse tutorial interativo e aprenda à criar um prompt para sua IA e ativá-la no seu sistema Simplesdesk Smart:
+Veja esse tutorial interativo e aprenda a criar um prompt para sua IA e ativá-la no seu sistema Flowseller Smart:
 
-{% embed url="https://app.supademo.com/demo/cm7g8h4rk079591fen3ck6dt7?utm_source=link" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhuvpsjv0045ta0iqf845y00?utm_source=link" %}
