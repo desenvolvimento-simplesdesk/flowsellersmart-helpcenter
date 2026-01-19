@@ -1,5 +1,5 @@
 # Efetuando o Login no App
 
-Confira um passo a passo simples de como efetuar o Login na sua conta pelo App da Flowseller:
+Confira um passo a passo simples de como efetuar o Login na sua conta pelo App da Simplesdesk:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmjd4z0l8001yu10iii6ugdtj?utm_source=link" %}
+{% embed url="https://app.supademo.com/demo/cmjd4nrar00n5u30iy3ndnvsf?utm_source=link" fullWidth="true" %}

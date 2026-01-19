@@ -1,12 +1,12 @@
-# Glossário Flowseller
+# Glossário Simplesdesk
 
-Veja neste material os termos e seus significados mais utilizados em conjunto com a Flowseller! 😉
+Veja neste material os termos e seus significados mais utilizados em conjunto com a Simplesdesk! 😉
 
 ### A <a href="#a" id="a"></a>
 
-**Administrador**: É o acesso a Flowseller que contém todas as permissões! Cadastrar novos usuários, construir Bots, configurar Tickets, dentre outros. Este usuário também tem a capacidade de acessar relatórios e dashboards.
+**Administrador**: É o acesso a Simplesdesk que contém todas as permissões! Cadastrar novos usuários, construir Bots, configurar Tickets, dentre outros. Este usuário também tem a capacidade de acessar relatórios e dashboards.
 
-**Atendente**: É o acesso ao Flowseller que tem como objetivo atender os clientes, ou seja, não acessa configurações no geral, relatórios mas pode responder tanto conversas quanto tickets/conversas.
+**Atendente**: É o acesso ao Simplesdesk que tem como objetivo atender os clientes, ou seja, não acessa configurações no geral, relatórios mas pode responder tanto conversas quanto tickets/conversas.
 
 **API**: (_Application programming Interface ou interface de Programação de Aplicação_) É um mecanismo comumente utilizado para realizar integrações entre sistemas! Ela funciona como porta de entrada para que informações sejam consultadas, atualizadas ou criadas e permite que sistemas conversem entre si para melhorar a experiência dos clientes ou automatizar algum tipo de tarefa recorrente.
 
@@ -30,13 +30,13 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 **Chat-commerce:** É o comércio eletrônico realizado por meio de uma conversa em tempo real entre um cliente e uma empresa, geralmente usando um chatbot ou um agente.
 
-**Chat no site:** É o chat disponibilizado pela Flowseller para o atendimento aos clientes, podendo ser realizado por atendentes humanos ou chatbots.
+**Chat no site:** É o chat disponibilizado pela Simplesdesk para o atendimento aos clientes, podendo ser realizado por atendentes humanos ou chatbots.
 
 **Cobrança:** É a etapa do atendimento em que se realiza o processo de cobrança de valores devidos pelos clientes.
 
-**Contatos:** São as informações e dados dos clientes armazenados no sistema Flowseller, como nome, e-mail, telefone, entre outros.
+**Contatos:** São as informações e dados dos clientes armazenados no sistema Simplesdesk, como nome, e-mail, telefone, entre outros.
 
-**Conversa:** Refere-se a uma interação entre um cliente e um atendente ou chatbot na Flowseller.
+**Conversa:** Refere-se a uma interação entre um cliente e um atendente ou chatbot na Simplesdesk.
 
 **CSAT (Customer Satisfaction Score):** É uma métrica usada para medir o nível de satisfação dos clientes com a experiência de atendimento. É geralmente obtido por meio de pesquisas de satisfação ou avaliações dos clientes.
 
@@ -56,7 +56,7 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 ### F <a href="#f" id="f"></a>
 
-**Fechar conversa:** É a ação de finalizar uma conversa ou interação na Flowseller.
+**Fechar conversa:** É a ação de finalizar uma conversa ou interação na Simplesdesk.
 
 **Framework**: É uma estrutura de trabalho que fornece diretrizes e componentes para o desenvolvimento de um processo.
 
@@ -68,11 +68,11 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 ### H <a href="#h" id="h"></a>
 
-**Highlights**: São destaques ou pontos importantes dentro de uma conversa ou interação na Flowseller.
+**Highlights**: São destaques ou pontos importantes dentro de uma conversa ou interação na Simplesdesk.
 
 ### I <a href="#i" id="i"></a>
 
-**ID da conversa:** É um identificador único atribuído a cada conversa registrada na Flowseller, permitindo a sua identificação e rastreamento.
+**ID da conversa:** É um identificador único atribuído a cada conversa registrada na Simplesdesk, permitindo a sua identificação e rastreamento.
 
 **Insights:** São informações e percepções obtidas a partir da análise de dados e métricas, que podem fornecer conhecimento e orientar as estratégias e decisões da empresa.
 
@@ -96,19 +96,19 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 **Mensagens prontas:** São respostas ou mensagens pré-elaboradas que podem ser utilizadas pelos atendentes ou chatbots para agilizar o atendimento e fornecer respostas consistentes.
 
-**Metodologia** Flowselle&#x72;**:** É uma abordagem ou conjunto de práticas recomendadas para a utilização efetiva da Flowseller, visando aprimorar a qualidade do atendimento e a satisfação do cliente.
+**Metodologia Simplesdesk:** É uma abordagem ou conjunto de práticas recomendadas para a utilização efetiva da Simplesdesk, visando aprimorar a qualidade do atendimento e a satisfação do cliente.
 
 **Métricas:** São medidas quantitativas utilizadas para avaliar o desempenho e o impacto das ações e processos do atendimento, como taxa de resolução, tempo médio de atendimento, entre outros.
 
-**Modelos de mensagem:** São mensagens pré-configuradas para utilização do WhatsApp Oficial, que podem ser utilizadas na Flowseller para agilizar o atendimento e fornecer respostas padronizadas.
+**Modelos de mensagem:** São mensagens pré-configuradas para utilização do WhatsApp Oficial, que podem ser utilizadas na Simplesdesk para agilizar o atendimento e fornecer respostas padronizadas.
 
 ### N <a href="#n" id="n"></a>
 
-**Número(s) Oficial(is)**: São os números de telefone vinculados ao WhatsApp Oficial, ferramenta disponível apenas através de BSP’s (Business Solution Providers) como a Flowseller.
+**Número(s) Oficial(is)**: São os números de telefone vinculados ao WhatsApp Oficial, ferramenta disponível apenas através de BSP’s (Business Solution Providers) como a Simplesdesk.
 
 ### O <a href="#o" id="o"></a>
 
-**Organizações**: São as diferentes empresas ou entidades cadastradas em seu Flowseller para facilitar a gestão de atendimentos realizados para uma empresa.
+**Organizações**: São as diferentes empresas ou entidades cadastradas em seu Simplesdesk para facilitar a gestão de atendimentos realizados para uma empresa.
 
 ### P <a href="#p" id="p"></a>
 
@@ -130,7 +130,7 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 ### R <a href="#r" id="r"></a>
 
-**Responsável pela conversa:** É o agente ou membro da equipe da Flowseller designado para gerenciar e acompanhar uma conversa específica com um cliente.
+**Responsável pela conversa:** É o agente ou membro da equipe da Simplesdesk designado para gerenciar e acompanhar uma conversa específica com um cliente.
 
 **ROI (Return on Investment):** É uma métrica que calcula o retorno financeiro obtido a partir de um investimento realizado. No contexto do atendimento, pode ser usado para avaliar a eficácia e o impacto das estratégias implementadas.
 
@@ -148,7 +148,7 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 ### T <a href="#t" id="t"></a>
 
-**Tags**: São marcadores ou etiquetas atribuídos às conversas na Flowseller, permitindo uma classificação e organização mais eficiente das informações.
+**Tags**: São marcadores ou etiquetas atribuídos às conversas na Simplesdesk, permitindo uma classificação e organização mais eficiente das informações.
 
 **Taxa de conversão:** É a porcentagem de visitantes ou leads que realizam uma ação desejada, como fazer uma compra, preencher um formulário ou se inscrever em um serviço.
 
@@ -158,11 +158,11 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 **TME** (Tempo Médio de Espera): É a média de tempo que um cliente espera até ser atendido por um atendente ou receber a primeira resposta.
 
-**Transferência de conversa:** É a ação de direcionar uma conversa da Flowseller de um agente para outro, geralmente quando há a necessidade de envolver uma pessoa especialista ou redirecionar o atendimento.
+**Transferência de conversa:** É a ação de direcionar uma conversa da Simplesdesk de um agente para outro, geralmente quando há a necessidade de envolver uma pessoa especialista ou redirecionar o atendimento.
 
 ### U <a href="#u" id="u"></a>
 
-**Usuário:** É uma pessoa ou entidade que utiliza a Flowseller para acessar informações, realizar solicitações ou interagir com os atendentes. Os usuários podem ser clientes, colaboradores internos ou outros stakeholders.
+**Usuário:** É uma pessoa ou entidade que utiliza a Simplesdesk para acessar informações, realizar solicitações ou interagir com os atendentes. Os usuários podem ser clientes, colaboradores internos ou outros stakeholders.
 
 ### V <a href="#v" id="v"></a>
 
@@ -178,6 +178,6 @@ Veja neste material os termos e seus significados mais utilizados em conjunto co
 
 ### Z <a href="#z" id="z"></a>
 
-**Zapier:** É uma plataforma de automação que permite integrar e conectar diferentes aplicativos e serviços, incluindo a Flowseller, facilitando a transferência de dados e a execução de tarefas entre eles.
+**Zapier:** É uma plataforma de automação que permite integrar e conectar diferentes aplicativos e serviços, incluindo a Simplesdesk, facilitando a transferência de dados e a execução de tarefas entre eles.
 
-\\
+<br>

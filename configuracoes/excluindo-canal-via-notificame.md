@@ -2,5 +2,4 @@
 
 Aprenda a excluir um canal de Instagram via Notificame criado anteriormente:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmjef6yxq01o81k0ipia7fcy8?utm_source=link" %}
-
+{% embed url="https://app.supademo.com/demo/cmjeem9dc06fw3zz2wqeezh77?utm_source=link" %}
