@@ -8,7 +8,7 @@ Veja este tutorial interativo:
 
 Tempo estimado de leitura: < 1 min ⌛
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsxg6m01bvzv0itqopxrvy?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmhnsxg6m01bvzv0itqopxrvy?utm_source=link" %}
 
 Clique no menu lateral esquerdo **Configurações > Etiquetas**
 
