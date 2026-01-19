@@ -14,6 +14,4 @@ description: >-
 
 Aprenda a utilizar a ferramenta de Campanhas dentro da plataforma! Cheque o tutorial interativo abaixo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsjd8c0683200i5qc0350x?utm_source=link" %}
-Disparos (campanhas)
-{% endembed %}
+{% embed url="http://app.supademo.com/demo/cmhnsjd8c0683200i5qc0350x?utm_source=link" %}
