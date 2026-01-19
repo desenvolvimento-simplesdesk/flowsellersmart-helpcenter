@@ -1,5 +1,3 @@
 # Editando Texto do ChatBot
 
-{% embed url="https://app.supademo.com/demo/cm4lrb8pe0ib7wf117gzeqbwd?utm_source=link" %}
-
-{% embed url="https://demo.simplesdesk.com.br/demo/cm4lrb8pe0ib7wf117gzeqbwd" %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnt08q401fjzv0i8ytrxnbz?utm_source=link" %}

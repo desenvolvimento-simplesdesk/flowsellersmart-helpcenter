@@ -6,9 +6,6 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja estes tutoriais interativos:
 
-{% embed url="https://app.supademo.com/demo/cm42s8k1112edjfcxwsxbpjrv" %}
-Como Utilizar o FIltro Avançado do Administrador
-{% endembed %}
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnszmz706ko200iwdyg0w9b?utm_source=link" %}
 
-{% embed url="https://www.loom.com/share/f4e59fa6f08244249c77f8acdce44330?sid=2c270517-556f-40a5-87d6-7de66b199057" %}
-
+{% embed url="https://demo.simplesdesk.com.br/demo/cmhnszq0n06960i0h1pq32mny?utm_source=link" %}
