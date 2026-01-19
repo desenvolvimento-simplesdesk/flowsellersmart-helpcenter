@@ -2,4 +2,4 @@
 
 Veja este tutorial interativo
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnskbi905xf0i0hfjiohssp?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmhnskbi905xf0i0hfjiohssp?utm_source=link" %}
