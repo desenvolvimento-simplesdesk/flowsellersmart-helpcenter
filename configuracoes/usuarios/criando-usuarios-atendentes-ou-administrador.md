@@ -6,7 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnswqi50001yf0iawradi0d?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmhnswqi50001yf0iawradi0d?utm_source=link" %}
 
 Acesse no **Menu lateral esquerdo > Configurações > Usuários**
 
