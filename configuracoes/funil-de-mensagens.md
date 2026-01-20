@@ -6,7 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este Tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnszxjv06lq200i9lln2bw0?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmhnszxjv06lq200i9lln2bw0?utm_source=link" %}
 
 {% hint style="danger" %}
 **USE COM CUIDADO - RISCO DE BANIMENTO DO WHATSAPP ALTISSÍMO**
