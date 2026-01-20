@@ -6,7 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este Tutorial interativo:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsxdhz005u260iyk51wegm?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmhnsxdhz005u260iyk51wegm?utm_source=link" %}
 
 {% hint style="info" %}
 O Status dos Leads só podem ser alterados via painel de atendimento, não é possível movimentar os atendimentos via painel Kanban, o Gestor visualiza todos os atendimentos e suas etapas/status e os atendentes só visualizam os próprios leads em suas etapas/status
