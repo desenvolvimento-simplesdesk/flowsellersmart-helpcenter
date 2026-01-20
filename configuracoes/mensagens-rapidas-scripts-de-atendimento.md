@@ -6,13 +6,9 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja estes tutoriais interativos:
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnsztht06ag0i0hai1mgqtn?utm_source=link" %}
-Criando mensagem rápida de Usuários
-{% endembed %}
+{% embed url="http://app.supademo.com/demo/cmhnsztht06ag0i0hai1mgqtn?utm_source=link" %}
 
-{% embed url="https://demo.simplesdesk.com.br/demo/cmhnskeeu060d0i0hkq7uw7f2?utm_source=link" %}
-Criando mensagem rápida de Administrador
-{% endembed %}
+{% embed url="http://app.supademo.com/demo/cmhnskeeu060d0i0hkq7uw7f2?utm_source=link" %}
 
 Acesse no menu lateral esquerdo **Configurações > Mensagens Rápidas**
 
