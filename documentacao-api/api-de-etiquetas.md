@@ -48,4 +48,4 @@ Você vai precisar passar um Id de usuário, pois as etiquetas são criadas faze
 
 Você também pode encontrar essas informações em Configurações -> Api/Webhook -> documentação
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -4,14 +4,4 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 # Pipeline
 
-{% content-ref url="criando-uma-oportunidade.md" %}
-[criando-uma-oportunidade.md](criando-uma-oportunidade.md)
-{% endcontent-ref %}
-
-{% content-ref url="criando-etapas-do-pipeline.md" %}
-[criando-etapas-do-pipeline.md](criando-etapas-do-pipeline.md)
-{% endcontent-ref %}
-
-{% content-ref url="como-adicionar-produtos.md" %}
-[como-adicionar-produtos.md](como-adicionar-produtos.md)
-{% endcontent-ref %}
+{% embed url="https://www.loom.com/share/a89a7427d4304c26a1371d260b5123fc?sid=0d4de6d2-f92a-4be2-a92e-c0498b1de972" %}
