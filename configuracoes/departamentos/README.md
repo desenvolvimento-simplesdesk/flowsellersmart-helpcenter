@@ -1,5 +1,5 @@
 ---
-description: Aprenda à gerir os seus departamentos da Simplesdesk
+description: Aprenda à gerir os seus departamentos da Flowseller
 ---
 
 # Departamentos
@@ -21,4 +21,3 @@ Configurando o SLA:
 {% content-ref url="configurando-o-sla.md" %}
 [configurando-o-sla.md](configurando-o-sla.md)
 {% endcontent-ref %}
-

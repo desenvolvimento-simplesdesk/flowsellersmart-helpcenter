@@ -2,4 +2,4 @@
 
 Assista ao tutorial de como ativar a Pesquisa de Satisfação:
 
-{% embed url="https://app.supademo.com/demo/cmjhd964y1pbr3zz2ufly3vxg?utm_source=link" %}
+{% embed url="http://app.supademo.com/demo/cmjhf1mab01f3z70hpfuhfys9?utm_source=link" %}
