@@ -42,6 +42,7 @@
   * [Como iniciar o atendimento](configuracoes/ferramentas-de-atendimento/como-iniciar-o-atendimento.md)
   * [Como transferir atendimentos](configuracoes/ferramentas-de-atendimento/como-transferir-atendimentos.md)
   * [Como Fechar um Atendimento](configuracoes/ferramentas-de-atendimento/como-fechar-um-atendimento.md)
+  * [Como Ativar a IA na Conversa](configuracoes/ferramentas-de-atendimento/como-ativar-a-ia-na-conversa.md)
 * [Funil de Mensagens](configuracoes/funil-de-mensagens.md)
 * [Status Lead (CRM Kanban)](configuracoes/status-lead-crm-kanban/README.md)
   * [Como adicionar Cliente à Status Lead](configuracoes/status-lead-crm-kanban/como-adicionar-cliente-a-status-lead.md)
