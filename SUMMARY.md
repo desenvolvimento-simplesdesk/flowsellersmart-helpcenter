@@ -77,6 +77,7 @@
 * [Tarefas](configuracoes/tarefas.md)
   * [Criando tarefa dentro da oportunidade](configuracoes/tarefas/criando-tarefa-dentro-da-oportunidade.md)
 * [Consulta de Atendimento](configuracoes/consulta-de-atendimento.md)
+* [Horário de atendimento](configuracoes/horario-de-atendimento.md)
 
 ## ➕ CONECTANDO CANAIS
 
