@@ -86,6 +86,7 @@
 * [Arquivos da Conversa(Banco de Arquivos)](configuracoes/arquivos-da-conversa-banco-de-arquivos.md)
 * [Histórico de Atividades do Ticket (log)](configuracoes/historico-de-atividades-do-ticket-log.md)
 * [Chat Interno](configuracoes/chat-interno.md)
+* [Metas](configuracoes/metas.md)
 
 ## ➕ CONECTANDO CANAIS
 
