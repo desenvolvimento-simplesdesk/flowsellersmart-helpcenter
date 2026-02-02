@@ -36,6 +36,7 @@
   * [Criando Usuários Atendentes ou Administrador](configuracoes/usuarios/criando-usuarios-atendentes-ou-administrador.md)
   * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario/README.md)
     * [Cadastrando grupo para os atendentes](configuracoes/usuarios/grupos-do-usuario/cadastrando-grupo-para-os-atendentes.md)
+  * [Como Atrelar Departamento à usuário](configuracoes/usuarios/como-atrelar-departamento-a-usuario.md)
 * [Ferramentas de Atendimento](configuracoes/ferramentas-de-atendimento/README.md)
   * [Como iniciar o atendimento](configuracoes/ferramentas-de-atendimento/como-iniciar-o-atendimento.md)
   * [Como transferir atendimentos](configuracoes/ferramentas-de-atendimento/como-transferir-atendimentos.md)
