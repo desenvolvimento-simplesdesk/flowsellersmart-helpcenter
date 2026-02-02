@@ -24,6 +24,7 @@
   * [Criando um ChatBot Intermediário](configuracoes/criacao-de-chatbot/criando-um-chatbot-intermediario.md)
   * [Criando um ChatBot Avançado](configuracoes/criacao-de-chatbot/criando-um-chatbot-avancado.md)
   * [Criando um Chatbot sem texto](configuracoes/criacao-de-chatbot/criando-um-chatbot-sem-texto.md)
+  * [ChatBot de Atendimento](configuracoes/criacao-de-chatbot/chatbot-de-atendimento.md)
   * [Criando Um Bot de Recesso](configuracoes/criacao-de-chatbot/criando-um-bot-de-recesso.md)
 * [Departamentos](configuracoes/departamentos/README.md)
   * [Criando Departamentos](configuracoes/departamentos/criando-departamentos.md)
