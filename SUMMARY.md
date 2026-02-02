@@ -69,7 +69,8 @@
 * [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
 * [Motivos de Perda](configuracoes/motivos-de-perda/README.md)
   * [Como Utilizar o Motivo de Perda na Pipeline](configuracoes/motivos-de-perda/como-utilizar-o-motivo-de-perda-na-pipeline.md)
-* [Tarefas](configuracoes/tarefas.md)
+* [Tarefas](configuracoes/tarefas/README.md)
+  * [Criando tarefa dentro da oportunidade](configuracoes/tarefas/criando-tarefa-dentro-da-oportunidade.md)
 * [Consulta de Atendimento](configuracoes/consulta-de-atendimento.md)
 
 ## ➕ CONECTANDO CANAIS
