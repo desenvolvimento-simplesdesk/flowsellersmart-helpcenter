@@ -65,7 +65,7 @@
 * [Ações em Massa](configuracoes/acoes-em-massa.md)
 * [Templates](configuracoes/templates.md)
 * [Mensagens Rápidas (Scripts de Atendimento)](configuracoes/mensagens-rapidas-scripts-de-atendimento.md)
-* [Origens do Lead](configuracoes/origens-do-lead/README.md)
+* [Origens do Lead](configuracoes/origens-do-lead.md)
   * [Como utilizar a Origem de Lead dentro da Oportunidade](configuracoes/origens-do-lead/como-utilizar-a-origem-de-lead-dentro-da-oportunidade.md)
 * [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
 * [Merge](configuracoes/merge.md)
