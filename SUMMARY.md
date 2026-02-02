@@ -54,6 +54,7 @@
   * [Como Importar Contatos](configuracoes/lista-de-contatos/como-importar-contatos.md)
   * [Editar Contatos](configuracoes/lista-de-contatos/editar-contatos.md)
   * [Cadastrando um contato](configuracoes/lista-de-contatos/cadastrando-um-contato.md)
+  * [Como Bloquear Contato](configuracoes/lista-de-contatos/como-bloquear-contato.md)
 * [Plugins](configuracoes/plugins/README.md)
   * [Criando e configurando Plugins](configuracoes/plugins/criando-e-configurando-plugins.md)
 * [Pipeline](configuracoes/pipeline/README.md)
