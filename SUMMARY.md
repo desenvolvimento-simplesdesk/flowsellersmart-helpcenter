@@ -36,6 +36,7 @@
   * [Criando Usuários Atendentes ou Administrador](configuracoes/usuarios/criando-usuarios-atendentes-ou-administrador.md)
   * [Como atrelar canal ao usuário.](configuracoes/usuarios/como-atrelar-canal-ao-usuario..md)
   * [Como Atrelar Departamento à usuário](configuracoes/usuarios/como-atrelar-departamento-a-usuario.md)
+  * [Personalizando o acesso dos atendentes as áreas da plataforma.](configuracoes/usuarios/personalizando-o-acesso-dos-atendentes-as-areas-da-plataforma..md)
   * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario/README.md)
     * [Cadastrando grupo para os atendentes](configuracoes/usuarios/grupos-do-usuario/cadastrando-grupo-para-os-atendentes.md)
 * [Ferramentas de Atendimento](configuracoes/ferramentas-de-atendimento/README.md)
