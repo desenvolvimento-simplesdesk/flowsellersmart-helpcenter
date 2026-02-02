@@ -6,7 +6,7 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 Veja este tutorial interativo:
 
-{% embed url="https://app.supademo.com/demo/cm3901zyb151w8hspenj63fv7" %}
+{% embed url="https://app.supademo.com/demo/cmky1cfgd1xr4tw9fvroue8db?step=1" %}
 
 
 
