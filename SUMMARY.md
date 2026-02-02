@@ -10,7 +10,7 @@
 * [WhatsApp (Web) - Boas práticas de uso](comece-por-aqui/whatsapp-web-boas-praticas-de-uso.md)
 * [Evite ser banido do WhatsApp](comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 * [Porque é importante limpar o cache do navegador?](comece-por-aqui/porque-e-importante-limpar-o-cache-do-navegador.md)
-* [Glossário Flowseller](comece-por-aqui/glossario-simplesdesk.md)
+* [Glossário Simplesdesk](comece-por-aqui/glossario-simplesdesk.md)
 * [Efetuando o Login no App](comece-por-aqui/efetuando-o-login-no-app.md)
 
 ## ⚙️ CONFIGURAÇÕES
@@ -23,7 +23,7 @@
   * [Criando um ChatBot Simples](configuracoes/criacao-de-chatbot/criando-um-chatbot-simples.md)
   * [Criando um ChatBot Intermediário](configuracoes/criacao-de-chatbot/criando-um-chatbot-intermediario.md)
   * [Criando um ChatBot Avançado](configuracoes/criacao-de-chatbot/criando-um-chatbot-avancado.md)
-  * [Criando um Chatbot sem texto](configuracoes/criacao-de-chatbot/criando-um-chatbot-avancado-1.md)
+  * [Criando um Chatbot sem texto](configuracoes/criacao-de-chatbot/criando-um-chatbot-sem-texto.md)
   * [Criando Um Bot de Recesso](configuracoes/criacao-de-chatbot/criando-um-bot-de-recesso.md)
 * [Departamentos](configuracoes/departamentos/README.md)
   * [Criando Departamentos](configuracoes/departamentos/criando-departamentos.md)
@@ -32,7 +32,8 @@
 * [Etiquetas (Tags)](configuracoes/etiquetas-tags.md)
 * [Usuários](configuracoes/usuarios/README.md)
   * [Criando Usuários Atendentes ou Administrador](configuracoes/usuarios/criando-usuarios-atendentes-ou-administrador.md)
-  * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario.md)
+  * [Grupos do Usuário](configuracoes/usuarios/grupos-do-usuario/README.md)
+    * [Cadastrando grupo para os atendentes](configuracoes/usuarios/grupos-do-usuario/cadastrando-grupo-para-os-atendentes.md)
 * [Ferramentas de Atendimento](configuracoes/ferramentas-de-atendimento/README.md)
   * [Como iniciar o atendimento](configuracoes/ferramentas-de-atendimento/como-iniciar-o-atendimento.md)
   * [Como transferir atendimentos](configuracoes/ferramentas-de-atendimento/como-transferir-atendimentos.md)
@@ -40,12 +41,14 @@
 * [Funil de Mensagens](configuracoes/funil-de-mensagens.md)
 * [Status Lead (CRM Kanban)](configuracoes/status-lead-crm-kanban/README.md)
   * [Como adicionar Cliente à Status Lead](configuracoes/status-lead-crm-kanban/como-adicionar-cliente-a-status-lead.md)
-* [Campos Customizados](configuracoes/campos-customizados.md)
+* [Campos Customizados](configuracoes/campos-customizados/README.md)
+  * [Como utilizar os campos personalizados](configuracoes/campos-customizados/como-utilizar-os-campos-personalizados.md)
 * [Lista de Contatos](configuracoes/lista-de-contatos/README.md)
   * [Como Importar Contatos](configuracoes/lista-de-contatos/como-importar-contatos.md)
   * [Editar Contatos](configuracoes/lista-de-contatos/editar-contatos.md)
   * [Cadastrando um contato](configuracoes/lista-de-contatos/cadastrando-um-contato.md)
-* [Plugins](configuracoes/plugins.md)
+* [Plugins](configuracoes/plugins/README.md)
+  * [Criando e configurando Plugins](configuracoes/plugins/criando-e-configurando-plugins.md)
 * [Pipeline](configuracoes/pipeline/README.md)
   * [Criando Uma Oportunidade](configuracoes/pipeline/criando-uma-oportunidade.md)
   * [Criando etapas do Pipeline](configuracoes/pipeline/criando-etapas-do-pipeline.md)
@@ -64,6 +67,7 @@
 * [Ativando canal de Instagram via Notificame](configuracoes/ativando-canal-de-instagram-via-notificame.md)
 * [Excluindo canal via Notificame](configuracoes/excluindo-canal-via-notificame.md)
 * [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
+* [Motivos de Perda](configuracoes/motivos-de-perda.md)
 
 ## ➕ CONECTANDO CANAIS
 

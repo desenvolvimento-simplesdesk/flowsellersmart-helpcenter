@@ -4,14 +4,4 @@ description: 'Tempo estimado de leitura: < 1 min ⌛'
 
 # Lista de Contatos
 
-{% content-ref url="como-importar-contatos.md" %}
-[como-importar-contatos.md](como-importar-contatos.md)
-{% endcontent-ref %}
-
-{% content-ref url="editar-contatos.md" %}
-[editar-contatos.md](editar-contatos.md)
-{% endcontent-ref %}
-
-{% content-ref url="cadastrando-um-contato.md" %}
-[cadastrando-um-contato.md](cadastrando-um-contato.md)
-{% endcontent-ref %}
+{% embed url="https://www.loom.com/share/7dbcdb9710cd47168871b595834a99bc?sid=e6c3469c-2c14-42cc-976c-52224c4fcc67" %}

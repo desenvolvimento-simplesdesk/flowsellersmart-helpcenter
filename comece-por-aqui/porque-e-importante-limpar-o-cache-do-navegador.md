@@ -14,9 +14,9 @@ Ele funciona salvando arquivos estáticos na memória do seu computador local. E
 
 O cenário ideal é que eles sejam constantemente atualizados, pra isso os navegadores deveriam fazer a atualização das memórias armazenadas de forma constante, renovando as rotas conforme recebe informações atualizadas.
 
-O fato é que nem sempre isso acontece na prática, com o acúmulo de informações na memória do navegador, lentidão e comportamentos não esperados passam a ficar mais evidentes, principalmente quando você está acessando páginas ou softwares que trafegam grandes volumes de dados, como é o caso da Flowseller.
+O fato é que nem sempre isso acontece na prática, com o acúmulo de informações na memória do navegador, lentidão e comportamentos não esperados passam a ficar mais evidentes, principalmente quando você está acessando páginas ou softwares que trafegam grandes volumes de dados, como é o caso da Simplesdesk.
 
-Por ser um recurso direto do navegador, existe diferença de comportamento entre um navegador e outro. **Uma recomendação geral para uso da** Flowseller **é o Google Chrome**, por ser um bom navegador e o mais popular. Porém, que consome mais memória e acumula mais dados que outros navegadores.
+Por ser um recurso direto do navegador, existe diferença de comportamento entre um navegador e outro. **Uma recomendação geral para uso da Simplesdesk é o Google Chrome**, por ser um bom navegador e o mais popular. Porém, que consome mais memória e acumula mais dados que outros navegadores.
 
 A recomendação do nosso time, por experiência própria é o uso do navegador Opera ou a sua vertente moderna Opera GX.
 
@@ -24,7 +24,7 @@ A recomendação do nosso time, por experiência própria é o uso do navegador 
 
 Percebeu alguma coisa estranha? Não carregou algo com de costume? É aí que entra a prática de limpeza de cache de forma manual, Essa ação força a limpeza da memória e consequentemente de todas as rotas acumuladas até aquele momento, incluindo as que estão quebradas. Conforme você vai executando novas ações, novas rotas vão sendo construídas.
 
-Então, sempre que perceber que algo não carregou na Flowseller, seja um filtro, uma página de ticket, uma tela em branco, etc. Faça essa limpeza que na maioria das vezes isso já é resolvido sem precisar tomar mais do seu tempo! 😊
+Então, sempre que perceber que algo não carregou na Simplesdesk, seja um filtro, uma página de ticket, uma tela em branco, etc. Faça essa limpeza que na maioria das vezes isso já é resolvido sem precisar tomar mais do seu tempo! 😊
 
 Cada navegador tem uma configuração então temos aqui as mais recomendadas:
 
@@ -35,4 +35,4 @@ Cada navegador tem uma configuração então temos aqui as mais recomendadas:
 
 Então é isso! Esperamos que essas dicas te ajude. 😊
 
-Caso tenha alguma dúvida, é só chamar nosso time de suporte da Flowseller. Ou, se preferir, chame através do nosso Whatsapp. 😉 :heart\_hands:
+Caso tenha alguma dúvida, é só chamar nosso time de suporte da Simplesdesk. Ou, se preferir, chame através do nosso [WhatsApp.](https://api.whatsapp.com/send?phone=5511939014459\&text=Ol%C3%A1%20quero%20abrir%20um%20novo%20chamado,%20preciso%20de%20suporte) 😉 :heart\_hands:

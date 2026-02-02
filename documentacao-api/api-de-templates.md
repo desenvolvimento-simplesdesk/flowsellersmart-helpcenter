@@ -18,7 +18,7 @@ Outra forma para encontrar os hsmId (id's dos templates da API oficial do WhatsA
 E adicione a palavra template entre a palavra external e o token: **external/template/{token}**
 
 ```
-https://enterprise-276api.flowseller.com.br/v1/api/external/template/d4975976-4e59-4c1d-b1da-b5eb34354a21/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnRJZCI6MiwicHJvZmlsZSI6ImFkbWluIiwic2Vzc2lvbklkIjozLCJjaGFubmVsVHlwZSI6IndhYmEiLCJpYXQiOjE3NjAxMzA1OTIsImV4cCI6MTgyMzIwMjU5Mn0.gPc0V5U-KTFgvBmfac0XNHgZb7X5uqP7jVEMNko-xnM
+https://enterprise-90api.simplesdesk.com.br/v1/api/external/template/5953c4c9-e54e-4bec-ae64-f2ee8bfaee96/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnRJZCI6MjUsInByb2ZpbGUiOiJhZG1pbiIsInNlc3Npb25JZCI6NjAsImNoYW5uZWxUeXBlIjoid2hhdHNhcHAiLCJpYXQiOjE3Mjc5NzQ5OTcsImV4cCI6MTc5MTA0Njk5N30.-c_D_2aQBSJjMV1ASLsXZDyg9wsT_OTkZ9n99m4M8oU
 ```
 
 Agora só adicionar em um ambiente de requisição (Postman ou Insomnia), ou colar o link na barra de endereço do seu navegador e teclar enter que você terá um JSON com um array de objetos.
@@ -47,7 +47,7 @@ Agora só adicionar em um ambiente de requisição (Postman ou Insomnia), ou col
 
 Você encontra essa informação em Configurações -> API/Webhook -> Documentação
 
-![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252FMWBY5En9p27PDxZz5FCe%252Fimage.png%3Falt%3Dmedia%26token%3D8031874e-b931-4691-bf91-0bb6e03e6039\&width=768\&dpr=4\&quality=100\&sign=a14574b0\&sv=2) ![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252F1sXIJzH1Jq4NCUIEvTqX%252Fimage.png%3Falt%3Dmedia%26token%3D39157400-a4ea-471d-9296-a1f0d65c91d7\&width=768\&dpr=4\&quality=100\&sign=6e8da795\&sv=2)
+![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252FMWBY5En9p27PDxZz5FCe%252Fimage.png%3Falt%3Dmedia%26token%3D8031874e-b931-4691-bf91-0bb6e03e6039\&width=768\&dpr=4\&quality=100\&sign=a14574b0\&sv=2)![](https://docs-68.gitbook.io/documentacao/~gitbook/image?url=https%3A%2F%2F713010078-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FWFwfQplhdVcaoBAx0CdD%252Fuploads%252F1sXIJzH1Jq4NCUIEvTqX%252Fimage.png%3Falt%3Dmedia%26token%3D39157400-a4ea-471d-9296-a1f0d65c91d7\&width=768\&dpr=4\&quality=100\&sign=6e8da795\&sv=2)
 
 Na imagem acima, é só adicionar apenas o token que você também consegue ver os dados do template Id.
 
