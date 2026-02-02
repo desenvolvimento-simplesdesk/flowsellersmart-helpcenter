@@ -6,6 +6,8 @@ description: Tutorial interativo para a criação e conexão do QRCODE.
 
 {% embed url="https://demo.simplesdesk.com.br/demo/cm3yjcg690c91vyqzqj3en0q2?utm_source=link" %}
 
+{% embed url="https://app.supademo.com/demo/cmkzoui4x019i2tpx48d322n6" %}
+
 Agora é só abrir no Whatsapp ou Whatsapp Business no seu celular e efetuar a leitura do QR CODE:
 
 ### Como associar um dispositivo
