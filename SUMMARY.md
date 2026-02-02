@@ -67,7 +67,8 @@
 * [Ativando canal de Instagram via Notificame](configuracoes/ativando-canal-de-instagram-via-notificame.md)
 * [Excluindo canal via Notificame](configuracoes/excluindo-canal-via-notificame.md)
 * [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
-* [Motivos de Perda](configuracoes/motivos-de-perda.md)
+* [Motivos de Perda](configuracoes/motivos-de-perda/README.md)
+  * [Como Utilizar o Motivo de Perda na Pipeline](configuracoes/motivos-de-perda/como-utilizar-o-motivo-de-perda-na-pipeline.md)
 
 ## ➕ CONECTANDO CANAIS
 
