@@ -55,6 +55,7 @@
   * [Criando Uma Oportunidade](configuracoes/pipeline/criando-uma-oportunidade.md)
   * [Criando etapas do Pipeline](configuracoes/pipeline/criando-etapas-do-pipeline.md)
   * [Como adicionar produtos](configuracoes/pipeline/como-adicionar-produtos.md)
+  * [Criando tarefa dentro da oportunidade](configuracoes/pipeline/criando-tarefa-dentro-da-oportunidade.md)
 * [Motivos de Fechamento](configuracoes/motivos-de-fechamento.md)
 * [Filtro Avançado](configuracoes/filtro-avancado.md)
 * [Perfil](configuracoes/perfil/README.md)
@@ -69,7 +70,7 @@
 * [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
 * [Motivos de Perda](configuracoes/motivos-de-perda/README.md)
   * [Como Utilizar o Motivo de Perda na Pipeline](configuracoes/motivos-de-perda/como-utilizar-o-motivo-de-perda-na-pipeline.md)
-* [Tarefas](configuracoes/tarefas/README.md)
+* [Tarefas](configuracoes/tarefas.md)
   * [Criando tarefa dentro da oportunidade](configuracoes/tarefas/criando-tarefa-dentro-da-oportunidade.md)
 * [Consulta de Atendimento](configuracoes/consulta-de-atendimento.md)
 

@@ -1,4 +1,4 @@
-# Como Criar Tarefas
+# Tarefas
 
 Como criar e filtrar tarefas:
 
