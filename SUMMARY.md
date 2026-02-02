@@ -64,8 +64,6 @@
 * [Origens do Lead](configuracoes/origens-do-lead.md)
 * [Configurações avançadas](configuracoes/configuracoes-avancadas.md)
 * [Merge](configuracoes/merge.md)
-* [Ativando canal de Instagram via Notificame](configuracoes/ativando-canal-de-instagram-via-notificame.md)
-* [Excluindo canal via Notificame](configuracoes/excluindo-canal-via-notificame.md)
 * [Ativando a Pesquisa de Satisfação](configuracoes/ativando-a-pesquisa-de-satisfacao.md)
 * [Motivos de Perda](configuracoes/motivos-de-perda/README.md)
   * [Como Utilizar o Motivo de Perda na Pipeline](configuracoes/motivos-de-perda/como-utilizar-o-motivo-de-perda-na-pipeline.md)
@@ -77,7 +75,9 @@
   * [Criando Canal de Whatsapp (API Oficial)](conectando-canais/whatsapp-api-oficial/criando-canal-de-whatsapp-api-oficial.md)
   * [Como acessar a Gupshup](conectando-canais/whatsapp-api-oficial/como-acessar-a-gupshup.md)
   * [Como Ativar Número na Gupshup](conectando-canais/whatsapp-api-oficial/como-ativar-numero-na-gupshup.md)
+* [Ativando canal de Instagram via Notificame](conectando-canais/ativando-canal-de-instagram-via-notificame.md)
 * [Inativando um canal](conectando-canais/inativando-um-canal.md)
+* [Excluindo canal via Notificame](conectando-canais/excluindo-canal-via-notificame.md)
 
 ## 🔚 DOCUMENTAÇÃO API
 
