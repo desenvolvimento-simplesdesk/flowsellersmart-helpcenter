@@ -15,7 +15,8 @@
 
 ## ⚙️ CONFIGURAÇÕES
 
-* [Disparos (Campanhas)](configuracoes/disparos-campanhas.md)
+* [Disparos (Campanhas)](configuracoes/disparos-campanhas/README.md)
+  * [Campanha \[Beta\]](configuracoes/disparos-campanhas/campanha-beta.md)
 * [Criação de ChatBot](configuracoes/criacao-de-chatbot/README.md)
   * [Editando Texto do ChatBot](configuracoes/criacao-de-chatbot/editando-texto-do-chatbot.md)
   * [Criando o seu primeiro ChatBot](configuracoes/criacao-de-chatbot/criando-o-seu-primeiro-chatbot.md)

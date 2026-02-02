@@ -8,8 +8,8 @@ description: >-
 
 ⚠️Observação: Evite ser banido do Whatsapp! Antes de utilizar esta ferramenta, cheque alguns cuidados e para não ter nenhum problema futuro com o seu número:
 
-{% content-ref url="../comece-por-aqui/evite-ser-banido-do-whatsapp.md" %}
-[evite-ser-banido-do-whatsapp.md](../comece-por-aqui/evite-ser-banido-do-whatsapp.md)
+{% content-ref url="../../comece-por-aqui/evite-ser-banido-do-whatsapp.md" %}
+[evite-ser-banido-do-whatsapp.md](../../comece-por-aqui/evite-ser-banido-do-whatsapp.md)
 {% endcontent-ref %}
 
 
