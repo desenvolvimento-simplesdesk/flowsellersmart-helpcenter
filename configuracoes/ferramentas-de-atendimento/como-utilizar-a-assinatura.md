@@ -1,4 +1,4 @@
-# Assinatura
+# Como Utilizar a Assinatura
 
 Veja ese tutorial interativo de como utilizar a assinatura na plataforma:
 
