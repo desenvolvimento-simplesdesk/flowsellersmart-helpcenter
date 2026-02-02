@@ -88,6 +88,7 @@
 * [Histórico de Atividades do Ticket (log)](configuracoes/historico-de-atividades-do-ticket-log.md)
 * [Chat Interno](configuracoes/chat-interno.md)
 * [Metas](configuracoes/metas.md)
+* [Feriados](configuracoes/feriados.md)
 
 ## ➕ CONECTANDO CANAIS
 
