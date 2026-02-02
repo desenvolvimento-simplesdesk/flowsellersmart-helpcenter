@@ -79,6 +79,7 @@
 * [Consulta de Atendimento](configuracoes/consulta-de-atendimento.md)
 * [Horário de atendimento](configuracoes/horario-de-atendimento.md)
 * [Agendamento de mensagens](configuracoes/agendamento-de-mensagens.md)
+* [Arquivos da conversa(Banco de arquivos)](configuracoes/arquivos-da-conversa-banco-de-arquivos.md)
 
 ## ➕ CONECTANDO CANAIS
 
