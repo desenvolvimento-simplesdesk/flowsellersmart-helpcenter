@@ -80,6 +80,7 @@
 * [Horário de atendimento](configuracoes/horario-de-atendimento.md)
 * [Agendamento de mensagens](configuracoes/agendamento-de-mensagens.md)
 * [Arquivos da conversa(Banco de arquivos)](configuracoes/arquivos-da-conversa-banco-de-arquivos.md)
+* [Histórico de atividades do ticket (log)](configuracoes/historico-de-atividades-do-ticket-log.md)
 
 ## ➕ CONECTANDO CANAIS
 
